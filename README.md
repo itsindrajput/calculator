@@ -1,5 +1,5 @@
 # 🧮 Calculator 🌈
-A dazzlingly simple calculator web application that sparkles with HTML, CSS, and JavaScript magic. This whimsical calculator not only crunches numbers but also adds a sprinkle of joy to your calculations.
+A simple calculator web application that sparkles with HTML, CSS, and JavaScript magic. This whimsical calculator not only crunches numbers but also adds a sprinkle of joy to your calculations.
 This calculator is designed to work seamlessly on various devices, providing a user-friendly interface for basic mathematical operations.
 
 **Table of Contents:**
@@ -10,10 +10,9 @@ This calculator is designed to work seamlessly on various devices, providing a u
 - [🎉 Usage](#-usage)
 - [📸 Screenshots](#-screenshots)
 - [🎁 Contributing](#-contributing)
-- [📜 License](#-license)
 
 **🚀 Demo:**
-Check out the live demo of your magical calculator app [here](#).
+Check out the live demo of your magical calculator app [here](https://itsindrajput.github.io/calculator/).
 
 **✨ Features:**
 - ✅ Basic arithmetic operations (addition, subtraction, multiplication, division).
@@ -46,4 +45,4 @@ Ready to add more sparkle to this project? Follow these steps:
 4. Push to the branch: `git push origin feature/new-feature`.
 5. Submit a pull request and join the magical contributors' circle.
 
-Feel free to add or modify emojis and adjust the tone to better suit your style and the personality of your calculator app. The goal is to make your repository not only informative but also enjoyable for visitors!
+Feel free to add or modify emojis and adjust the tone to better suit your style and the personality of your calculator app. The goal is to make your repository not only informative but also enjoyable for visitors! Thank you for visiting! I'm excited to embark on this journey of growth and innovation. 👨‍💻🌟
